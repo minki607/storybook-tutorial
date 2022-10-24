@@ -6,6 +6,7 @@ export const GlobalStyle = createGlobalStyle`
 /* ---------------- 사용자 정의 초기화 --------------------------------------- */
   
   body {
+    background-color: pink;
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
